@@ -19,5 +19,5 @@ Future Graduate of Uniniversity of Washington, Geography department, GIS focus. 
 
 ** Bachelor of Arts Degree, Geography with a focus on GIS** (2020 - 2023)
 
-
+> "This is my quote"
 
