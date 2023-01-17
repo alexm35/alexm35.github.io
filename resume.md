@@ -9,15 +9,16 @@ Future Graduate of Uniniversity of Washington, Geography department, GIS focus. 
 
 ## Shoreline Community College (Shoreline, Washington)
 
-* [University 1][] Local College to northern King County area*
+* [University 1][] Local College to northern King County area
 
 ** General Transfer Associates Degree** (2016-2020)
 
 
 ## University of Washington (Seattle, Washington)
-* [University 2][] Large research university in the Pacific Northwest*
+* [University 2][] Large research university in the Pacific Northwest
 
 ** Bachelor of Arts Degree, Geography with a focus on GIS** (2020 - 2023)
 
-[University 1]: https://www.shoreline.edu/
-[University 2]: https://www.washington.edu/
+[University 1]: https://www.shoreline.edu
+[University 2]: https://www.washington.edu
+
